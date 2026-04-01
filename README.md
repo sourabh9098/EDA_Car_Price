@@ -20,16 +20,12 @@ The dataset includes:
 - Converted categorical variables using encoding techniques
 - Prepared data for machine learning models
 
-## Machine Learning Model
-
-- Applied regression algorithms such as:
-  - Linear Regression
     
 ## Key Insights
 
-- Engine size and horsepower have a strong impact on car price
-- Vehicle size and weight influence pricing
-- Fuel type and drive type also affect price variation
+1 Engine size and horsepower have a strong impact on car price
+2 Vehicle size and weight influence pricing
+3 Fuel type and drive type also affect price variation
 
 ## Tools Used
 
